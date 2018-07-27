@@ -2,4 +2,4 @@
 
 The accompanying slides for this notebook can be found [here](https://slides.com/bradleystuartkirton/deck-3/#/).
 
-These notesbooks an introductory overview of the [dask](https://dask.pydata.org/) library.
+These notesbooks provide an introductory overview to the [dask](https://dask.pydata.org/) library.

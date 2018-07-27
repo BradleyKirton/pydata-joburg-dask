@@ -5,11 +5,6 @@ name = "pypi"
 
 [packages]
 jupyterlab = "*"
-xar = "*"
-"30c4869" = {path = "./../../ice-moon"}
-treq = "*"
-twisted = "*"
-autobahn = "*"
 matplotlib = "*"
 pandas = "*"
 numpy = "*"
@@ -20,9 +15,6 @@ bokeh = "*"
 pyarrow = "*"
 gcsfs = "*"
 graphviz = "*"
-altair = "*"
-sklearn = "*"
-scipy = "*"
 
 [dev-packages]
 
