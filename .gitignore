@@ -1,0 +1,8 @@
+data/
+*.ipynb_checkpoints/
+*dask-worker-space/
+.env
+feed.py
+luno.service
+pydata.sublime*
+viz.png

@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyterlab = "*"
+xar = "*"
+"30c4869" = {path = "./../../ice-moon"}
+treq = "*"
+twisted = "*"
+autobahn = "*"
+matplotlib = "*"
+pandas = "*"
+numpy = "*"
+dask = {extras = ["complete"]}
+toolz = "*"
+sqlalchemy = "*"
+bokeh = "*"
+pyarrow = "*"
+gcsfs = "*"
+graphviz = "*"
+altair = "*"
+sklearn = "*"
+scipy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
